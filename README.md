@@ -1,6 +1,6 @@
 # weatherwebapp
 
-## My First App using Nodejs and express
+## My First web app using Nodejs and express
 
 ## Nodewebapp
 
