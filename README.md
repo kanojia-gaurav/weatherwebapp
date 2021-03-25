@@ -11,3 +11,9 @@
 ###  npm install (this will install require library's)
 
 ### npm run dev (as this project is written from the devloper mode)
+
+<img src="new.jpg">
+
+<img src="warningwithwronginput.jpg">
+
+<img src="witherrorofblanktext.jpg">
